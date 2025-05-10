@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const c = document.getElementById('counter');
 const btn = document.getElementById('btn');
-let count = parseInt(c.innerText, 10);
+let count = parseInt(c.innerText, 1);
 
 
 btn.addEventListener('click', () =>{
