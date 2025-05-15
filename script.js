@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const c = document.getElementById('counter');
-const btn = document.getElementById('btn');
+const btn = document.getElementById('incbtn');
 let count = parseInt(c.innerText);
 
 
